@@ -81,7 +81,7 @@ _병력관리 자동화 어플리케이션의 등장!_
 * 이한음 [Github](https://github.com/haneumLee) / 2haneum@naver.com
 * 김예건 [Github](https://github.com/ibocon) / wlfka102@gmail.com
 * 김현철 [Github](https://github.com/Dainomix) / effectmix@gmail.com
-* 송대석 [Github](https://github.com/DaeSeokSong)
+* 송대석 [Github](https://github.com/DaeSeokSong) / zxdsaqwe1231@naver.com
 
 ## 알려진 버그 (Known Issues)
 
